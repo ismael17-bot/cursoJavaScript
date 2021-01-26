@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+p{
+    color: chartreuse;
+    size: 12pt;
+    
+}
+div#horas{
+    color: chartreuse;
+}

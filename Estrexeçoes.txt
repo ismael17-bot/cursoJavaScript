@@ -1,0 +1,23 @@
+tratamentos de Exceções;
+
+objeto Error
+    	.message
+	.name
+	.toString()
+
+exemplo:
+
+try{
+	var x=a;
+	var b=x+10;
+	alert(b);
+
+
+
+
+
+}catch(erro){
+
+	alert(erro.name+"_"+erro.message)ou (erro.toString());
+}
+

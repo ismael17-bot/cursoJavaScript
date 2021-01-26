@@ -1,0 +1,18 @@
+div#cadeiras{
+   
+   background-color: black;
+}
+img{
+    display:inline-flex;
+    padding: 2px;
+    display:inline;
+    float:inline-start;
+    margin:0 auto;
+    width: 200px;
+}
+h1{
+    text-align: center;
+    size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif, "Helvetica Neue", Helvetica, sans-serif;
+    padding: 20px;
+}
