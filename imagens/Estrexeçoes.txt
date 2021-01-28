@@ -21,3 +21,4 @@ try{
 	alert(erro.name+"_"+erro.message)ou (erro.toString());
 }
 
+imagens\Estrexeçoes.txt
